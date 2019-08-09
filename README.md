@@ -1,3 +1,10 @@
+
+## Assignment Description
+Create a number guessing react game implementing redux that lets users get a user definable number of guesses to guess it's randomly selected number.
+
+## RULES
+
+
 This is a Code the Dream project based on [Create React App](https://github.com/facebook/create-react-app.
 
 ## Available Scripts
