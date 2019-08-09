@@ -3,7 +3,20 @@
 Create a number guessing react game implementing redux that lets users get a user definable number of guesses to guess it's randomly selected number.
 
 ## RULES
+1. Game must track number of incorrect guesses.
+2. Game must give hints when a number is incorrect.
+3. Players must have 30 seconds to make a guess before their non answer becomes an incorrect guess.
+4. Players must be aware of the "shot clock"
+5. Game must track total time taken to make correct guess. 
+6. Game must show a you win screen and a you lose screen.
+7. Wireframes must be submitted and approved with your mentor prior to first commit. 
 
+## Strecth Goals
+1. High Score screen (or maybe low time/least number of guesses) with initials obv.
+2. Have data persist in local storage
+3. Have data persist on database. 
+
+## Starter Code documentation
 
 This is a Code the Dream project based on [Create React App](https://github.com/facebook/create-react-app.
 
